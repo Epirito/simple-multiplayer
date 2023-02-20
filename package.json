@@ -1,0 +1,13 @@
+{
+  "name": "simple-multiplayer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "dependencies": {
+    "socket.io": "^4.6.0",
+    "socket.io-client": "^4.6.0"
+  },
+  "devDependencies": {
+    "vite": "^4.1.3"
+  }
+}
