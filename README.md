@@ -1,5 +1,5 @@
 # simple-multiplayer
-Real-time client-side prediction multiplayer over Socket.io with zero netcode.
+Rollback netcode library with Socket.io.
 
 ## Basic Example
 To run a minimal example:
